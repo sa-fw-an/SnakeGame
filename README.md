@@ -15,6 +15,10 @@ This is a classic **Snake Game** implemented in **Python** using the **Pygame** 
 |---|---|---|
 | ![Screenshot 2024-10-16 193835](https://github.com/user-attachments/assets/1c154961-fec8-443e-89a8-edd631c8941b) | ![Screenshot 2024-10-16 193940](https://github.com/user-attachments/assets/4563e988-77a2-45c8-8e90-08c4072168c2) | ![Screenshot 2024-10-16 193910](https://github.com/user-attachments/assets/e17b7138-8305-47e2-8fc5-fe2874f7f6de) |
 
+## Output
+| Working of App |
+|  https://github.com/user-attachments/assets/d1f1ebcf-2031-4d3b-b172-b53ac31c2f6b |
+
 ## Installation
 
 
