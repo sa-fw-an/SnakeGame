@@ -17,11 +17,7 @@ This is a classic **Snake Game** implemented in **Python** using the **Pygame** 
 
 ## Output
 
-https://github.com/user-attachments/assets/eb8376e3-956a-4939-87b8-314b49a4e11c
-
-
-## Installation
-
+https://github.com/user-attachments/assets/88faf5af-bc9f-4bb4-bba4-c0c6c9a02bba
 
 ### Prerequisites
 
