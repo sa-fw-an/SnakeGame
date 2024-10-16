@@ -49,7 +49,6 @@ python game.py
 ## Built With
 - **Python**: The core programming language.
 - **Pygame**: Used to handle game mechanics, graphics, and rendering.
-- **VSCode**: For writing and editing the code.
 
 ## Author
 - **Safwan Sayeed**
