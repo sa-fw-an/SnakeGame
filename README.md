@@ -26,3 +26,30 @@ You need to have **Python** installed on your machine. You can download it from 
 You will also need the **Pygame** library. You can install it using pip:
 ```bash
 pip install pygame
+```
+
+## To Run 
+Run the following command to play the game 
+```bash
+python game.py
+```
+
+## Controls
+- **Arrow Keys / WASD**: Move the snake up, down, left, or right.
+- **Start Button**: Begin the game from the main menu.
+- **Quit Button**: Exit the game from either the main menu or game over screen.
+
+## How to Play
+1. **Start the Game**: Upon launching the game, click on the "Start" button to begin.
+2. **Control the Snake**: Use the arrow keys or WASD to move the snake around the screen.
+3. **Eat the Food**: Guide the snake to the red food to increase your length and score.
+4. **Avoid Collisions**: If the snake hits the walls or itself, the game will end.
+5. **Game Over**: When the game is over, you can choose to either play again or quit.
+
+## Built With
+- **Python**: The core programming language.
+- **Pygame**: Used to handle game mechanics, graphics, and rendering.
+- **VSCode**: For writing and editing the code.
+
+## Author
+- **Safwan Sayeed**
